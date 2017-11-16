@@ -1,0 +1,24 @@
+{
+  "name": "random_photos-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Achant/random_photos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Achant/random_photos/issues"
+  },
+  "homepage": "https://github.com/Achant/random_photos#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-photo-gallery": "^1.0.9",
+    "nodemon": "^1.12.1"
+  }
+}
